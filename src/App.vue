@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    修改首頁
     <router-view></router-view>
   </div>
 </template>
